@@ -1,0 +1,147 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.container{
+    height:550px;
+    width:900px;
+    /* background-image: url("https://th.bing.com/th/id/OIP.68FrxxYRJZ8IcAVbD7-DMgHaEK?rs=1&pid=ImgDetMain"); */
+    background-color: antiquewhite;
+    margin:30px 200px;
+    border-radius: 20px;
+    display:grid;
+    grid-template-columns: 500px  350px ;
+    grid-template-rows: 550px ;
+
+}
+.div1{
+    
+   
+    margin:20px 20px 0px 20px;
+    height:530px ;
+    
+
+}
+.div3{
+    background-color: aqua;
+  
+   height:250px;
+        text-align:center;}
+        .div3 img{
+            height:250px;
+            width:460px;
+        }
+  
+.div5{
+    background-color: rgb(242, 205, 205);
+  
+    height:250px;
+         text-align:center; 
+    }
+    .content{
+        height:50px;
+        background-color: yellow;
+        text-align: center;
+    }
+    #columns{display:grid;
+        grid-template-columns: 153px 154px 153px;
+       grid-template-rows:200px ;
+        
+        
+    }
+   
+    .sub1child1{
+        height:70px;
+        margin:5px 5px;
+        background-color:azure; border-radius: 10px;
+       
+    }
+    .sub1child1 img {
+        height:70px;
+        width:143px; border-radius: 10px;
+
+    }
+    .sub1child2{ height:115px;
+        margin:0px 5px 5px 5px;
+        background-color:azure;
+        border-radius: 10px;
+
+    }
+    .sub1child2 img {
+        height:115px;
+        width:143px; border-radius: 10px;
+    }
+.child2{
+    
+    border-radius: 20px;
+    margin:5px 5px;
+}
+.child2 img{
+    height:190px;
+    width:144px;border-radius: 20px;
+
+}
+
+.sub2child1{
+    height:115px;
+        margin:5px 5px 0px 5px;
+        background-color:azure;
+        border-radius: 10px;
+}
+.sub2child1 img{height:115px;
+    border-radius: 10px;
+width:143px;
+
+}
+.sub2child2{ height:70px;
+    margin:5px 5px;
+    background-color:azure;
+    border-radius: 10px;
+    
+}
+.sub2child2 img {
+    height:70px;
+    width:143px;
+    border-radius: 10px;
+
+}
+   
+   
+   .div2{
+    margin:0px 20px  ;
+    height:550px;
+    
+    
+}
+
+
+
+.div4{
+    height:150px;border-radius: 20px;
+
+   
+
+}
+.div4 img{
+    height:300px;
+            width:310px;border-radius: 20px;}
+    
+    .div6{background-color:violet;
+    height:300px;border-radius: 10px;
+   
+    
+   
+
+}
+.div6 img{
+    height:300px;
+    width:310px;border-radius: 10px;
+}
+.div8{background-color: black;
+    height:80px;border-radius: 10px;
+
+
+}
+.div8 img{
+    height:100px;
+        width:310px;border-radius: 10px;}
